@@ -1,5 +1,3 @@
-numpy==1.16.4
-pandas==1.0.3
 sphinx-copybutton
 sphinx-version-warning
 sphinx-click
